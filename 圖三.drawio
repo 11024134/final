@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="第 1 页" id="OEhynxcZobe35qmoBwu_">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-118" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="100" y="285" width="510" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-104" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0A0A0A;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#0000FF;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-118">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-105" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#0000FF;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-118">
+          <mxGeometry x="120" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-111" value="" style="group" connectable="0" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-118">
+          <mxGeometry y="60" width="510" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-106" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-111">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-107" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-111">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-110" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="group" connectable="0" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-111">
+          <mxGeometry y="120" width="510" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-108" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-109" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-114" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry x="120" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-115" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry x="120" y="60" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-124" value="工程人員" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry x="25" y="75" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-123" value="項目經理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry x="20" y="15" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-128" value="&lt;font&gt;工程人員擔心報修下單系統分配不合理和不及時,設備問題自己來不及處理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry x="119" y="75" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-127" value="&lt;font&gt;項目經理擔心系統故障引起很多業主投訴,小區服務的滿意度受到影響&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-110">
+          <mxGeometry x="119" y="15" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-113" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-111">
+          <mxGeometry x="120" y="60" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-121" value="業主&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B6%89%E7%9C%BE%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontFamily%3DHelvetica%3BfontSize%3D16%3BfontColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22300%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B6%89%E7%9C%BE%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontFamily%3DHelvetica%3BfontSize%3D16%3BfontColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22300%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B6%89%E7%9C%BE%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontFamily%3DHelvetica%3BfontSize%3D16%3BfontColor%3D%23FFFFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22300%22%20width%3D%2260%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-111">
+          <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-122" value="管家" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-111">
+          <mxGeometry x="30" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-126" value="管家擔心保修單沒有及時處理,導致業主投訴,影響服務的滿意度,自己獎金被扣" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-111">
+          <mxGeometry x="119" y="75" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-112" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-118">
+          <mxGeometry x="120" y="60" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-119" value="涉眾" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-118">
+          <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-120" value="關注價值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-118">
+          <mxGeometry x="260" y="15" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBvh1Pet_bgvApeO3uL-125" value="&lt;font&gt;業主擔心自己反饋的報修單沒人跟進,小區設備沒有得到修理維護&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="iUBvh1Pet_bgvApeO3uL-118">
+          <mxGeometry x="120" y="75" width="390" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

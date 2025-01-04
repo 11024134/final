@@ -1,0 +1,149 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="第 1 页" id="twr32JXocK7Ngn3oR7Gj">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="plke8yRoB29OoQZ5G2PN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="990" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-1" value="依賴所有適配器模塊" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="85" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-2" value="存放文檔,例如項目的介紹以及各種架構設計圖示" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-3" value="lift-supervision-bootstrap&lt;div&gt;:啟動模塊,適配器模塊&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-5" value="doc文件&lt;div&gt;readme項目介紹,ini示例&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-6" value="lift-supervision-adapter-myaql&lt;div&gt;:&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;適配域模塊&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-7" value="lift-supervision-schedulex&lt;div&gt;:適配域模塊&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-8" value="lift-supervision-web&lt;div&gt;:適配域模塊&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-9" value="lift-supervision&lt;div&gt;:項目&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-10" value="lift-supervision-domain-content&lt;div&gt;:核心域模塊&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-11" value="lift-supervision-adapter-order&lt;div&gt;:支撐域模塊&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-12" value="lift-supervision-adapter-ldentity&lt;div&gt;:通用&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;域模塊&lt;/span&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="585" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="218" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-27" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="plke8yRoB29OoQZ5G2PN-13">
+          <mxGeometry x="0.375" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="200" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="685" y="200" />
+              <mxPoint x="585" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-10" target="plke8yRoB29OoQZ5G2PN-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="480" as="sourcePoint" />
+            <mxPoint x="150" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-17" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="220" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-9" target="plke8yRoB29OoQZ5G2PN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="210" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-20" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="plke8yRoB29OoQZ5G2PN-18">
+          <mxGeometry x="-0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="300" as="sourcePoint" />
+            <mxPoint x="580" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-21" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="plke8yRoB29OoQZ5G2PN-19">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.29;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="100" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.021;entryY=0.79;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-9" target="plke8yRoB29OoQZ5G2PN-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="261" as="sourcePoint" />
+            <mxPoint x="832" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-9" target="plke8yRoB29OoQZ5G2PN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-26" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="plke8yRoB29OoQZ5G2PN-25">
+          <mxGeometry x="-0.4" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-6" target="plke8yRoB29OoQZ5G2PN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="250" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-12" target="plke8yRoB29OoQZ5G2PN-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="470" as="sourcePoint" />
+            <mxPoint x="270" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="plke8yRoB29OoQZ5G2PN-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="plke8yRoB29OoQZ5G2PN-31" value="電梯監管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

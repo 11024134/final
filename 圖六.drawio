@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="第 1 页" id="QbC2_spqKEwv3l07Jg95">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-36" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="140" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-16" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-18" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-23" value="" style="line;strokeWidth=2;html=1;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry y="145" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-25" value="" style="line;strokeWidth=2;html=1;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="195" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;container=0;strokeWidth=1;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-21" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;container=0;flipV=1;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="240" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-26" value="" style="line;strokeWidth=2;html=1;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="100" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-24" value="" style="line;strokeWidth=2;html=1;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="145" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-27" value="" style="line;strokeWidth=2;html=1;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="50" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-33" value="" style="line;strokeWidth=2;html=1;container=0;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="20" y="250" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-41" value="突發事件/年檢設置" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="68" y="235" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-40" value="中大修管理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="35" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-39" value="委外處理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="30" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-38" value="工單執行" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="30" y="85" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-43" value="中大修管理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-36">
+          <mxGeometry x="36" y="35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-37" value="基礎台帳" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-42" value="維保/巡檢/品質檢查標準設定" style="text;strokeColor=none;fillColor=none;html=1;fontSize=18;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="307" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-45" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#001933;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-45">
+          <mxGeometry width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ZaHYc6sXwt7HNL-8VcX-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;電梯監管平台&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=0;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="6ZaHYc6sXwt7HNL-8VcX-45">
+          <mxGeometry x="20" y="5" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

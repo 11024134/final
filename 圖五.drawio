@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="第 1 页" id="68z1YCxYeWa5XuL4u4mt">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0A0A0A;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#0000FF;container=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-21" value="關係" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-17" value="關聯(Association)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;container=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-18" value="包含(Include)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;container=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-12" value="泛化(Generalization)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;container=0;labelBorderColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="125" y="540" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-13" value="擴展(Extend)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;container=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-24" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="370" y="285" width="391" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=#0000FF;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry x="1" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry x="1" y="60" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-22" value="關注價值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry x="141" y="15" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-23" value="&lt;font&gt;業主擔心自己反饋的報修單沒人跟進,小區設備沒有得到修理維護&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry x="1" y="75" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry x="1" y="120" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-19" value="管家擔心保修單沒有及時處理,導致業主投訴,影響服務的滿意度,自己獎金被扣" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=0;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry y="135" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry x="1" y="180" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry x="1" y="240" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-14" value="&lt;font&gt;工程人員擔心報修下單系統分配不合理和不及時,設備問題自己來不及處理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry y="255" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-15" value="&lt;font&gt;項目經理擔心系統故障引起很多業主投訴,小區服務的滿意度受到影響&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;container=0;" vertex="1" parent="gIVMnsFsd6ArCI7_oYrz-24">
+          <mxGeometry y="195" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="285" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-26" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="345" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-27" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="405" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-28" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="465" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="525" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-30" value="圖形" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;container=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="380" as="sourcePoint" />
+            <mxPoint x="345" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-37" value="" style="endArrow=block;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="554.5" as="sourcePoint" />
+            <mxPoint x="345" y="554.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="440" as="sourcePoint" />
+            <mxPoint x="340" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIVMnsFsd6ArCI7_oYrz-40" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="500" as="sourcePoint" />
+            <mxPoint x="340" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,211 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="第 1 页" id="WyyZsL1ozUfQ0CX678tp">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="105" width="830" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="105" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-3" value="系統用例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="15" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-4" value="安全管理員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="580" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-6" value="維保工方" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="742.5" y="175" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-7" value="管家/工程人員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-8" value="區域負責人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="455" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-9" value="總部監管員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="555" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="705" y="300" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-12" value="第三方電梯系統" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="tunKh1rVO28-Eh8E7nbW-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="370" as="sourcePoint" />
+            <mxPoint x="109.99999999999997" y="369.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tunKh1rVO28-Eh8E7nbW-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="380" as="sourcePoint" />
+            <mxPoint x="140" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tunKh1rVO28-Eh8E7nbW-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="390" as="sourcePoint" />
+            <mxPoint x="140" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="359.9999999999998" as="sourcePoint" />
+            <mxPoint x="130" y="299.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="349.9999999999998" as="sourcePoint" />
+            <mxPoint x="130" y="229.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.072;exitY=0.412;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tunKh1rVO28-Eh8E7nbW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="210" as="sourcePoint" />
+            <mxPoint x="130" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.072;exitY=0.412;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="sourcePoint" />
+            <mxPoint x="130" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-29" value="品質檢查標準配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-30" value="處理工單" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-31" value="審批工單" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-32" value="檢查週期配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-33" value="檢查標準配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-34" value="維保策略配置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-35" value="電梯台賬維護" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-37" value="" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-38" value="" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-39" value="" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-40" value="" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-41" value="" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-42" value="報表數據" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-50" value="推送工單" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-52" value="抽查工單" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-53" value="審核工單" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-54" value="評價工單" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-55" value="訴求/報修" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-56" value="" style="ellipse;whiteSpace=wrap;html=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-57" value="處理工單" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="177.71" as="sourcePoint" />
+            <mxPoint x="680" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="300" as="sourcePoint" />
+            <mxPoint x="680" y="222.29000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="467.71000000000004" as="sourcePoint" />
+            <mxPoint x="680" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tunKh1rVO28-Eh8E7nbW-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="742.5" y="570" as="sourcePoint" />
+            <mxPoint x="672.5" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tunKh1rVO28-Eh8E7nbW-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="742.5" y="567.71" as="sourcePoint" />
+            <mxPoint x="682.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="447.71000000000004" as="sourcePoint" />
+            <mxPoint x="680" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.033;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tunKh1rVO28-Eh8E7nbW-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="385" as="sourcePoint" />
+            <mxPoint x="690" y="307.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tunKh1rVO28-Eh8E7nbW-65" value="電梯監管" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
